@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ImageMaker.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="650.54542"
+     inkscape:cy="413.46619"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="3512"
+     inkscape:window-y="74"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient927">
+      <stop
+         style="stop-color:#ffffdd;stop-opacity:0;"
+         offset="0"
+         id="stop925" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0.35398236;"
+         offset="0.25994694"
+         id="stop943" />
+      <stop
+         style="stop-color:#00ff37;stop-opacity:1;"
+         offset="0.50397879"
+         id="stop923" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0.34513274;"
+         offset="0.7665782"
+         id="stop945" />
+      <stop
+         style="stop-color:#ffffdd;stop-opacity:0;"
+         offset="1"
+         id="stop937" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient927"
+       id="linearGradient929"
+       x1="50.387096"
+       y1="97.048386"
+       x2="73.451614"
+       y2="97.048386"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="translate(-36.273472,-61.976287)" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11087"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11123"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect790"
+       width="61.202663"
+       height="61.202663"
+       x="13.25259"
+       y="11.039989" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient929);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect234"
+       width="23.064516"
+       height="23.064516"
+       x="14.113621"
+       y="23.539852"
+       inkscape:export-filename="ChainRay.png"
+       inkscape:export-xdpi="735.82672"
+       inkscape:export-ydpi="735.82672"
+       transform="matrix(0,1,1,0,0,0)" />
+    <g
+       id="g11113"
+       style="stroke-width:1.4;stroke-dasharray:none"
+       transform="translate(174.89668,-21.765713)"
+       inkscape:export-filename="NotRotatable.png"
+       inkscape:export-xdpi="735.82672"
+       inkscape:export-ydpi="735.82672">
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#009300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 150.3594,86.160139 C 147.56454,75.969812 141.42122,66.727512 133.10749,60.205555 124.79377,53.683599 114.35464,49.917294 103.79193,49.628872 93.22922,49.34045 82.600115,52.531473 73.942868,58.590026 65.285621,64.648579 58.647097,73.541863 55.300311,83.564488 l 10.077976,3.046227 c 2.821653,-7.745762 8.137447,-14.560887 14.963127,-19.18351 6.825681,-4.622622 15.12692,-7.029493 23.366686,-6.774965 8.23977,0.254528 16.37662,3.169175 22.90398,8.204276 6.52735,5.0351 11.41237,12.16533 13.75056,20.070481 2.14188,7.24143 2.14804,15.100573 0.0175,22.345353 -2.1305,7.24479 -6.39012,13.84947 -12.11107,18.77864 -5.72094,4.92917 -12.8829,8.16532 -20.36308,9.20111 -7.48018,1.03579 -15.25201,-0.13245 -22.09711,-3.32158 l 4.769886,-8.4877 -27.950123,-0.25572 13.441777,24.19678 4.924108,-7.24967 c 8.534895,4.08199 18.251263,5.65539 27.638222,4.47553 9.38696,-1.17985 18.41173,-5.10883 25.67097,-11.17599 7.25925,-6.06717 12.72761,-14.25132 15.55477,-23.27985 2.82716,-9.02852 3.00325,-18.869879 0.50088,-27.993761 z"
+         id="path11085"
+         sodipodi:nodetypes="sccscccccs"
+         inkscape:original-d="m 150.3594,86.160139 c -31.7103,-0.819941 -63.731737,-1.766135 -95.059089,-2.595651 3.581577,0.945103 7.092555,2.025678 10.077976,3.046227 24.798137,0.8003 49.891083,1.558378 74.984353,2.316282 25.09328,0.757902 -36.36713,31.036683 -54.55373,47.003523 l 4.769886,-8.4877 -27.950123,-0.25572 13.441777,24.19678 4.924108,-7.24967 C 104.48674,124.15622 182.0697,86.980083 150.3594,86.160139 Z"
+         inkscape:path-effect="#path-effect11087" />
+      <rect
+         style="font-variation-settings:normal;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect11099"
+         width="8.530901"
+         height="111.8735"
+         x="6.702549"
+         y="85.877983"
+         transform="rotate(-42.377646)" />
+    </g>
+    <path
+       style="font-variation-settings:normal;fill:#009300;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 325.25608,185.74927 c -2.79486,-10.19033 -8.93818,-19.43263 -17.25191,-25.95458 -8.31372,-6.52196 -18.75285,-10.28826 -29.31556,-10.57669 -10.56271,-0.28842 -21.19182,2.90261 -29.84906,8.96116 -8.65725,6.05855 -15.29577,14.95183 -18.64256,24.97446 l 10.07797,3.04623 c 2.82165,-7.74576 8.13745,-14.56089 14.96313,-19.18351 6.82568,-4.62263 15.12692,-7.0295 23.36669,-6.77497 8.23977,0.25453 16.37662,3.16917 22.90398,8.20428 6.52735,5.0351 11.41237,12.16533 13.75056,20.07048 2.14188,7.24143 2.14804,15.10058 0.0175,22.34536 -2.13051,7.24478 -6.39013,13.84947 -12.11107,18.77864 -5.72095,4.92917 -12.88291,8.16531 -20.36308,9.2011 -7.48018,1.0358 -15.25202,-0.13245 -22.09712,-3.32158 l 4.76989,-8.4877 -27.95012,-0.25572 13.44177,24.19678 4.92411,-7.24967 c 8.5349,4.08199 18.25126,5.65539 27.63823,4.47554 9.38696,-1.17985 18.41173,-5.10884 25.67097,-11.176 7.25924,-6.06716 12.72761,-14.25132 15.55477,-23.27984 2.82716,-9.02853 3.00325,-18.86989 0.50088,-27.99377 z"
+       id="path11115"
+       sodipodi:nodetypes="sccscccccs"
+       inkscape:original-d="m 325.25608,185.74927 c -31.71031,-0.81994 -63.73174,-1.76614 -95.05909,-2.59565 3.58157,0.9451 7.09255,2.02568 10.07797,3.04623 24.79814,0.8003 49.89108,1.55837 74.98436,2.31628 25.09328,0.7579 -36.36714,31.03668 -54.55374,47.00352 l 4.76989,-8.4877 -27.95012,-0.25572 13.44177,24.19678 4.92411,-7.24967 c 23.49218,-19.97799 101.07515,-57.15413 69.36485,-57.97407 z"
+       inkscape:path-effect="#path-effect11123"
+       inkscape:export-filename="Rotatable.png"
+       inkscape:export-xdpi="735.82672"
+       inkscape:export-ydpi="735.82672" />
+  </g>
+</svg>

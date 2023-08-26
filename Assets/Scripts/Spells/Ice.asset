@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8935ec032bf22b5418835d56600a60ed, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  spellName: "\u30A2\u30A4\u30B9"
+  spellPattern:
+  - {x: -1, y: 1}
+  - {x: 2, y: 0}
+  - {x: 0, y: -2}
+  startPoint: {x: 0, y: 0}
+  mpCost: 1
+  cpCost: 0
+  isRotatable: 1
+  tier: 1
+  spellDiscription: "\u6C37\u3092\u98DB\u3070\u3057\u3066\u3001\u50B7\u3092\u7652\u3059\u521D\u7D1A\u9B54\u6CD5\n\u6575\u306B1\u30C0\u30E1\u30FC\u30B8\u4E0E\u3048\u3001\u81EA\u5206\u306EHP\u30922\u56DE\u5FA9\u3059\u308B\u3002"
+  damage: 1
+  heal: 2

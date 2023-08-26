@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7614cc13b1f34c549b02a022280f087a, type: 3}
+  m_Name: CharacterDataBase
+  m_EditorClassIdentifier: 
+  characterList:
+  - characterID: 100
+    characterName: "\u30A6\u30A3\u30B6\u30FC\u30C9"
+    characterPrefab: {fileID: 5308548098725554895, guid: fa53af2c4d12720428e915bddb659214, type: 3}
+    characterType: 0
+    fieldSize: {x: 11, y: 7}
+    maxHp: 10
+    maxMp: 5
+    maxCp: 5
+    spellSlot:
+    - spellName: {fileID: 11400000, guid: 8b253fb8b65b5fc459e8d52608f09e27, type: 2}
+      amount: 3
+    - spellName: {fileID: 11400000, guid: 09e8470ad80262f44a099ca892605a10, type: 2}
+      amount: 3
+  - characterID: 1
+    characterName: "\u30B9\u30BF\u30FC\u30B9\u30E9\u30A4\u30E0"
+    characterPrefab: {fileID: 9035152587859715041, guid: b97925538d9a70b43886e637233ea479, type: 3}
+    characterType: 1
+    fieldSize: {x: 11, y: 7}
+    maxHp: 6
+    maxMp: 4
+    maxCp: 5
+    spellSlot:
+    - spellName: {fileID: 11400000, guid: 8b253fb8b65b5fc459e8d52608f09e27, type: 2}
+      amount: 3
+    - spellName: {fileID: 11400000, guid: 09e8470ad80262f44a099ca892605a10, type: 2}
+      amount: 3
+  - characterID: 0
+    characterName: 
+    characterPrefab: {fileID: 0}
+    characterType: 0
+    fieldSize: {x: 0, y: 0}
+    maxHp: 0
+    maxMp: 0
+    maxCp: 0
+    spellSlot: []

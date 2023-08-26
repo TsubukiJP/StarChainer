@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0dbd33839a1788a4ab8cae3b0b2e8a66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerNomalStarPrefab: {instanceID: 0}
+  - enemyNomalStarPrefab: {instanceID: 0}
+  - manaStarPrefab: {instanceID: 0}
+  - healStarPrefab: {instanceID: 0}
+  - DamageStarPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
